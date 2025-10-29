@@ -12,3 +12,4 @@ C:\Users\PORI\OneDrive\Desktop\csharp\HelloWorldApp\obj\Debug\net9.0\refint\Hell
 C:\Users\PORI\OneDrive\Desktop\csharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
 C:\Users\PORI\OneDrive\Desktop\csharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
 C:\Users\PORI\OneDrive\Desktop\csharp\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
+C:\Users\PORI\OneDrive\Desktop\csharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.sourcelink.json
