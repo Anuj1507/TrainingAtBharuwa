@@ -57,7 +57,7 @@ Topic: Advanced C# Concepts
 Activities:
 
 Continued learning C# from the following video:
-🔗 C# Full Course - YouTube
+https://www.youtube.com/watch?v=YrtFtdTTfv0
 
 New concepts learned:
 
