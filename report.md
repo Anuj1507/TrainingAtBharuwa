@@ -31,5 +31,29 @@ Control flow statements (break, continue)
 Day 3
 
 Topic: Practical Implementation of C# Concepts
-Summary:
-Implemented basic programs in C# to strengthen understanding of variables, loops, and conditionals. Practiced writing structured, well-commented code following OOP principles.
+
+mini projects
+
+1. Calculator
+
+Goal: Practice operators, conditionals, loops, and methods.
+
+# Simple version:
+
+Take two numbers and perform + - * / based on user choice.
+
+Concepts Covered:
+
+Console.ReadLine()
+
+Convert.ToInt32()
+
+if...else or switch
+
+Basic arithmetic operators
+
+
+2. Bank Management System (Console-Based)
+Problem Statement
+
+Design a console-based Bank Management System that allows users to create accounts, deposit and withdraw money, check balance, and view account details — while implementing core OOP principles like encapsulation, inheritance, and polymorphism.
