@@ -80,3 +80,33 @@ Additional Work:
 Solved several SQL problems
 
 Found an advanced C# topics video to cover next month
+
+# Day 5
+
+Topic: String Comparison, Password Validation, Array Operations, and Exception Handling in C#
+
+
+1.String Comparison: Learned how to compare strings using both == (which checks for reference and value) and Equals() (which checks only for value). Also explored creating strings from character arrays and verifying their equality.
+
+2.String Operations: Implemented simple string operations like checking substrings using Contains() and verifying non-empty strings using !string.IsNullOrEmpty().
+
+3.Password Checker: Created a small program that validates a user-entered password based on specific conditions such as:
+
+Minimum length of 8 characters
+
+At least one uppercase and one lowercase letter
+
+Confirmation of the password by re-entry
+
+Re-prompting until correct input is provided
+
+4.Array and List Operations: Practiced sorting and reversing arrays using Array.Sort() and Array.Reverse(), and worked with lists by adding elements and checking their count.
+
+5.Exception Handling: Implemented robust input validation using try-catch blocks. Handled different exception types such as:
+
+FormatException — for non-numeric input
+
+OverflowException — for numbers exceeding integer limits
+
+General Exception — for any unknown errors
+This ensured the program runs smoothly even with invalid user inputs.
