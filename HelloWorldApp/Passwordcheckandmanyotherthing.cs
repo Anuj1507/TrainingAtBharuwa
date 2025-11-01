@@ -1,11 +1,10 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
-class Passwordcheckandmanyotherthing
+
+public class Passwordcheckandmanyotherthing
 {
-    static void Main(string[] args)
-    {
+    public void Passwordchecker(){
         //day5
         //string str1 = "World";
         //string str2 = "World";
